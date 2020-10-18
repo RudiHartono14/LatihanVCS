@@ -72,3 +72,32 @@ Kelas : TI.20.B.1
 * Saat ini kita sudah masuk kedalam folder LatihanVCS, Silahkan edit file README.md yang ada di File Explorer. Bisa menggunakan Text Editor (Sublime Text, Notepad, Notepad++, Visual Studio Code). Edit sesuai dengan keinginan.
 
 ![gambar menambahkan user](gambar/Edit-Readme.PNG)
+
+Setelah file README.md diedit, silahkan Simpan file tersebut dengan cara CTRL+S atau File -> Save
+
+* Langkah selanjutnya setelah file disimpan, kita kembali pada App Git Bash (CMD). Ketik pada Git Bash seperti berikut ini :
+
+git add .
+
+![gambar menambahkan user](gambar/git-add.PNG)
+
+* Setelah selesai melakukan git add . langkah berikutnya kita akan melakukan *commit. Fungsi commit adalah untuk menyimpan perubahan yang dilakukan, tetapi tidak ada perubahan pada remote repository. Ketik pada App Git Bash seperti berikut ini :
+
+git commit "Update README.md"
+
+![gambar menambahkan user](gambar/git-commit.PNG)
+
+* Git commit telah selesai di lakukan. Untuk saat ini akan melakuka Git Push, Git Push berfungsi untuk mengirimkan perubahan file setelah di commit ke remote repository. Silahkan ketik pada App Git Bash seperti berikut :
+
+![gambar menambahkan user](gambar/git-push.PNG)
+
+* Semua proses telah selesai, silahkan kembali ke Web Browser untuk melihat perubahan yang telah di commit dan push dari remote.
+
+![gambar menambahkan user](gambar/git-web.PNG)
+
+Hal diatas adalah Cara Langkah-Langkah Penggunaan GIT.
+
+Sekian informasi yang dapat saya bagikan kepada kalian semoga bermanfaat.
+
+
+TERIMA KASIH
