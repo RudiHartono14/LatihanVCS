@@ -29,7 +29,7 @@ Kelas : TI.20.B.1
 
 * Buat akun di GitHub , seperti contoh dibawah ini. Dan lakukan verifikasi akun melalui email yang sudah terdaftar.
 
-![gambar menambahkan user](gambar/git-sign\up)
+![gambar menambahkan user](gambar/git-signup.PNG)
 
 * Jika akun GitHub sudah selesai dibuat dan diverifikasi, Proses selanjutnya silahkan buat Repository seperti gamabr dibawah ini. Penjelasan :
 
