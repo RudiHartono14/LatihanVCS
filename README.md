@@ -65,3 +65,10 @@ Kelas : TI.20.B.1
 
 ![gambar menambahkan user](gambar/git-clone.PNG)
 
+* Setelah proses cloning selesai, pada saat ini kita masih pada folder awal (master), kita harus masuk kedalam folder yang telah dicloning tadi yaitu LatihanVCS dengan mengetikkan Texs berikut :
+
+![gambar menambahkan user](gambar/Cd-Folder.PNG)
+
+* Saat ini kita sudah masuk kedalam folder LatihanVCS, Silahkan edit file README.md yang ada di File Explorer. Bisa menggunakan Text Editor (Sublime Text, Notepad, Notepad++, Visual Studio Code). Edit sesuai dengan keinginan.
+
+![gambar menambahkan user](gambar/Edit-Readme.PNG)
