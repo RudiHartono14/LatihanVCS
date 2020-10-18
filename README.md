@@ -19,6 +19,11 @@ Kelas : TI.20.B.1
 
 * setelah itu cek lah versi berapa Git yang kita gunakan dengan Cara "git Version"
 
+![gambar menambahkan user](gambar/git-version.PNG)
+
 * jika muncul tampilan Git version itu artinya git sudah terinstal dengan baik, langkah selanjut nya adalah melalukan konfigurasi user name dan email di git dengan mengetikan texs berikut
 
 * git config --global user.name "Masukkan Nama Anda disini" git config --global user.email "Masukkan Email Anda disini"
+
+![gambar menambahkan user](gambar/git-email.PNG)
+
