@@ -11,6 +11,8 @@ Kelas : TI.20.B.1
 
 * Langkah Pertama Silahkan Download Git Di https://git-scm.com
 
+![gambar menmbahkan user](gambar/git-downloadlink.PNG) 
+
 * setelah melalukan Proses Download di Link tersebut silahkan lakukan instalasi 
 
 * setelah melakukan proses instalasi selesai pastikan Git sudah benar-benar terinstal dengan cara search CMD lalu tulis "git" untuk memanggil git
